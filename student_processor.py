@@ -1,3 +1,5 @@
+#   NAME: Denis Onduso   
+#   ID: 250466BSIT
 class Student:
     def __init__(self, name, student_id, marks):
         self.name = name
