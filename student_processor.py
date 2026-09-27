@@ -1,4 +1,4 @@
-#   NAME: Denis Onduso   
+#   NAME: Denis O. Onduso   
 #   ID: 250466BSIT
 class Student:
     def __init__(self, name, student_id, marks):
